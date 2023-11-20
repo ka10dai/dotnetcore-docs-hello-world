@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'crisys-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1B359FC54C4466888DB529DE0DFEBA1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0846DED1397B4FDB9DF28B23ADE647F3 }}
           package: .
